@@ -1,0 +1,3883 @@
+{
+  "users": [
+    {
+      "name": "Jane Doe",
+      "username": "janedoe",
+      "password": "$2a$10$g2Fsu8708VA1qQnSuXwgJeXz68m3mUgCxVERRUq/dC9h1aciaQdnq",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "Passionate about summarizing complex topics and sharing knowledge.",
+      "followers": 1236,
+      "following": 569,
+      "summariesCount": 46,
+      "totalLikes": 14221,
+      "totalViews": 501245,
+      "rate": 4.8,
+      "status": "new",
+      "id": "e819",
+      "likedSummaries": [
+        "1727269236478",
+        "1728632466666",
+        "1729062090017",
+        "1729250052560",
+        "1"
+      ],
+      "savedSummaries": [
+        "1727269236478"
+      ],
+      "likedRepositories": [
+        "3",
+        "1",
+        "5"
+      ],
+      "savedRepositories": [
+        "4",
+        "2"
+      ],
+      "followingId": [
+        "1371"
+      ],
+      "followerIds": [
+        "1371"
+      ],
+      "notificationIds": [
+        "1729082098314",
+        "1729082150740",
+        "1729082884256",
+        "1729082916532",
+        "1729083097960",
+        "1729083832721",
+        "1729083980402",
+        "1729084639871",
+        "1729084642654",
+        "1729088330937",
+        "1729250339300",
+        "1729601033512",
+        "1729843420633",
+        "1729847168618",
+        "1730018617938",
+        "1730019573726",
+        "1730019684654",
+        "1730019764150",
+        "1730019783640",
+        "1730019902442",
+        "1730019961430",
+        "1730020002360",
+        "1730020799750",
+        "1730022723205"
+      ],
+      "communities": [
+        "1",
+        "1728155586115",
+        "1728631908638",
+        "1728818096990",
+        "1728818276523",
+        "1728631860616",
+        "1729082518145",
+        "1729082970040",
+        "1729083249174",
+        "1729083784758",
+        "1729083966118",
+        "1729842060853",
+        "1729842105507",
+        "1730018009291"
+      ]
+    },
+    {
+      "name": "John Smith",
+      "username": "johnsmith",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "Enthusiastic about learning and exploring new technologies.",
+      "followers": 876,
+      "following": 123,
+      "summariesCount": 30,
+      "totalLikes": 7890,
+      "totalViews": 234567,
+      "rate": 4.5,
+      "status": "active",
+      "id": "0290",
+      "likedSummaries": [],
+      "savedSummaries": [],
+      "followingId": [],
+      "communities": []
+    },
+    {
+      "name": "Alice Johnson",
+      "username": "alicejohnson",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "Dedicated to sharing educational resources and insights.",
+      "followers": 3456,
+      "following": 789,
+      "summariesCount": 55,
+      "totalLikes": 12345,
+      "totalViews": 678901,
+      "rate": 4.9,
+      "status": "active",
+      "id": "70ba",
+      "likedSummaries": [],
+      "savedSummaries": [],
+      "followingId": [],
+      "communities": []
+    },
+    {
+      "name": "Bob Brown",
+      "username": "bobbrown",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "Tech enthusiast with a passion for programming and development.",
+      "followers": 2345,
+      "following": 654,
+      "summariesCount": 28,
+      "totalLikes": 5678,
+      "totalViews": 123456,
+      "rate": 4.7,
+      "status": "inactive",
+      "id": "f138",
+      "likedSummaries": [],
+      "savedSummaries": [],
+      "followingId": [],
+      "communities": []
+    },
+    {
+      "name": "John Smith",
+      "username": "asd",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "New user bio",
+      "followers": 0,
+      "following": 0,
+      "summariesCount": 0,
+      "totalLikes": 0,
+      "totalViews": 0,
+      "rate": 0,
+      "status": "new",
+      "id": "f03f",
+      "likedSummaries": [],
+      "savedSummaries": [],
+      "followingId": [],
+      "communities": []
+    },
+    {
+      "name": "Eitan Klein",
+      "username": "Eitan",
+      "password": "$2a$10$g2Fsu8708VA1qQnSuXwgJeXz68m3mUgCxVERRUq/dC9h1aciaQdnq",
+      "avatar": "",
+      "bio": "Hello i am a third year student at jct",
+      "followers": 512200,
+      "following": 18,
+      "summariesCount": 51,
+      "totalLikes": 10071,
+      "totalViews": 119119,
+      "rate": 4.8,
+      "status": "new",
+      "id": "1371",
+      "likedSummaries": [
+        "4",
+        "2"
+      ],
+      "savedSummaries": [
+        "1",
+        "1727339977967"
+      ],
+      "likedRepositories": [
+        "3",
+        "1",
+        "5"
+      ],
+      "savedRepositories": [
+        "4",
+        "2"
+      ],
+      "followingId": [
+        "e819"
+      ],
+      "followerIds": [
+        "e819"
+      ],
+      "notificationIds": [
+        "1729082056413",
+        "1729082060109",
+        "1729082071823",
+        "1729082117770",
+        "1729083493686",
+        "1729084625047",
+        "1729244136001",
+        "1729244347915",
+        "1729244756064",
+        "1729250526888",
+        "1729252356443",
+        "1729252363150",
+        "1729252383215",
+        "1729252398300",
+        "1729252451366",
+        "1729252457488",
+        "1729603192328",
+        "1729623508631",
+        "1729623816318",
+        "1730022045310"
+      ],
+      "communities": [
+        "1",
+        "1728818276523",
+        "1729082518145",
+        "1729082860280",
+        "1729082970040",
+        "1729083084984",
+        "1729083249174",
+        "1729083784758",
+        "1729083790965",
+        "1729083966118",
+        "1729624076964",
+        "1729865593302",
+        "1730018009291",
+        "1730019716232"
+      ]
+    },
+    {
+      "id": "1726417710378",
+      "name": "Raaya Nadel",
+      "username": "raaya",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "summariesCount": 0,
+      "totalLikes": 0,
+      "totalViews": 0,
+      "rate": 0,
+      "status": "new",
+      "likedSummaries": [],
+      "savedSummaries": [],
+      "followingId": [],
+      "communities": []
+    },
+    {
+      "id": "1727270812578",
+      "name": "Ruth",
+      "username": "ruth",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "summariesCount": 0,
+      "totalLikes": 0,
+      "totalViews": 0,
+      "rate": 0,
+      "status": "new",
+      "likedSummaries": [
+        "1727269236478"
+      ],
+      "savedSummaries": [
+        "1727269236478"
+      ],
+      "likedRepositories": [],
+      "savedRepositories": [],
+      "notifications": [],
+      "followingId": [],
+      "communities": []
+    },
+    {
+      "id": "1729239232007",
+      "name": "oo",
+      "username": "oo",
+      "password": "$2a$10$tMg3Wqyo37xC3iWeB.6IqedamSUYIovY4IOUov1KgbfcLTNqRf40i",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "summariesCount": 0,
+      "totalLikes": 0,
+      "totalViews": 0,
+      "rate": 0,
+      "status": "new",
+      "likedSummaries": [],
+      "savedSummaries": [],
+      "likedRepositories": [],
+      "savedRepositories": []
+    },
+    {
+      "id": "1730038206367",
+      "name": "xcv",
+      "username": "fdg",
+      "password": "$2a$10$g2Fsu8708VA1qQnSuXwgJeXz68m3mUgCxVERRUq/dC9h1aciaQdnq",
+      "avatar": "/placeholder.svg?height=100&width=100",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "summariesCount": 0,
+      "totalLikes": 0,
+      "totalViews": 0,
+      "rate": 0,
+      "status": "new",
+      "likedSummaries": [],
+      "savedSummaries": [],
+      "likedRepositories": [],
+      "savedRepositories": []
+    }
+  ],
+  "summeries": [
+    {
+      "id": "1",
+      "owner": "1371",
+      "title": "Introduction to Quantum Mechanics",
+      "description": "This summary provides a comprehensive overview of quantum mechanics, covering basic concepts, popular algorithms, and real-world applications. It's perfect for beginners looking to understand the fundamentals of QM.",
+      "content": "Quantum Mechanics is a fundamental theory in physics that describes nature at the smallest scales of energy levels of atoms and subatomic particles. This summary covers key concepts such as wave-particle duality, the Schrödinger equation, and the uncertainty principle, as well as practical applications in various fields.",
+      "views": 1259,
+      "likes": 20,
+      "comments": [
+        "101",
+        "1729244135972"
+      ],
+      "dateCreated": "2023-06-14",
+      "lastUpdated": "2023-06-16",
+      "author": "Eitan Klein",
+      "tags": [
+        "Physics",
+        "Quantum Mechanics",
+        "Science"
+      ],
+      "neuronGraph": {
+        "quantum mechanics": {
+          "term": "Quantum Mechanics",
+          "definition": "A fundamental theory in physics that describes nature at the smallest scales of energy levels of atoms and subatomic particles.",
+          "relatedTerms": [
+            "wave-particle duality",
+            "Schrödinger equation",
+            "uncertainty principle"
+          ]
+        },
+        "wave-particle duality": {
+          "term": "Wave-Particle Duality",
+          "definition": "The concept that every particle or quantum entity may be described as either a particle or a wave, depending on the circumstances of the experiment.",
+          "relatedTerms": [
+            "quantum mechanics",
+            "double-slit experiment"
+          ]
+        },
+        "schrödinger equation": {
+          "term": "Schrödinger Equation",
+          "definition": "A linear partial differential equation that describes the wave function of a quantum-mechanical system.",
+          "relatedTerms": [
+            "quantum mechanics",
+            "wave function"
+          ]
+        }
+      }
+    },
+    {
+      "id": "2",
+      "owner": "e819",
+      "title": "Introduction to Machine Learning",
+      "description": "This summary gives an overview of the foundational concepts in machine learning, covering algorithms, model training, and real-world use cases.",
+      "content": "Machine Learning is a subset of artificial intelligence that enables systems to learn from data and improve performance without being explicitly programmed. This summary covers essential topics like supervised and unsupervised learning, neural networks, and popular algorithms such as decision trees and k-nearest neighbors.",
+      "views": 1606,
+      "likes": 21,
+      "comments": [],
+      "dateCreated": "2023-07-19",
+      "lastUpdated": "2023-07-22",
+      "author": "Jane Doe",
+      "tags": [
+        "Machine Learning",
+        "AI",
+        "Data Science"
+      ],
+      "neuronGraph": {
+        "machine learning": {
+          "term": "Machine Learning",
+          "definition": "A subset of AI that enables computers to learn from data without explicit programming.",
+          "relatedTerms": [
+            "supervised learning",
+            "unsupervised learning",
+            "neural networks"
+          ]
+        },
+        "supervised learning": {
+          "term": "Supervised Learning",
+          "definition": "A type of machine learning where the model is trained on labeled data.",
+          "relatedTerms": [
+            "classification",
+            "regression",
+            "neural networks"
+          ]
+        },
+        "neural networks": {
+          "term": "Neural Networks",
+          "definition": "A set of algorithms, modeled after the human brain, designed to recognize patterns and make predictions.",
+          "relatedTerms": [
+            "machine learning",
+            "deep learning",
+            "artificial neurons"
+          ]
+        }
+      }
+    },
+    {
+      "id": "3",
+      "owner": "1371",
+      "title": "Exploring the Theory of Relativity",
+      "description": "A detailed summary of Einstein's Theory of Relativity, covering both Special and General Relativity and their implications in modern physics.",
+      "content": "Einstein's Theory of Relativity revolutionized our understanding of space, time, and gravity. This summary explains Special Relativity, including the concepts of time dilation and length contraction, and General Relativity, which describes how gravity affects the fabric of space-time.",
+      "views": 983,
+      "likes": 83,
+      "comments": [],
+      "dateCreated": "2023-05-10",
+      "lastUpdated": "2023-05-14",
+      "author": "Eitan Klein",
+      "tags": [
+        "Physics",
+        "Relativity",
+        "Science"
+      ],
+      "neuronGraph": {
+        "special relativity": {
+          "term": "Special Relativity",
+          "definition": "A theory in physics that addresses the relationship between space and time, introducing the concept that time can dilate and lengths contract depending on the relative speed of observers.",
+          "relatedTerms": [
+            "time dilation",
+            "length contraction"
+          ]
+        },
+        "general relativity": {
+          "term": "General Relativity",
+          "definition": "Einstein's theory describing gravity as a curvature of space-time, rather than as a force between masses.",
+          "relatedTerms": [
+            "gravitational waves",
+            "space-time"
+          ]
+        }
+      }
+    },
+    {
+      "id": "4",
+      "owner": "e819",
+      "title": "Introduction to Blockchain Technology",
+      "description": "A concise overview of blockchain technology, discussing its foundational principles, decentralized structure, and real-world applications such as cryptocurrencies and smart contracts.",
+      "content": "Blockchain is a decentralized ledger technology that enables secure and transparent transactions without a central authority. This summary explores key concepts like cryptographic hashing, distributed consensus, and blockchain's applications in areas like finance, supply chains, and voting systems.",
+      "views": 1480,
+      "likes": 96,
+      "comments": [],
+      "dateCreated": "2023-10-20",
+      "lastUpdated": "2023-04-23",
+      "author": "Jane Doe",
+      "tags": [
+        "Blockchain",
+        "Cryptocurrency",
+        "Technology"
+      ],
+      "neuronGraph": {
+        "blockchain": {
+          "term": "Blockchain",
+          "definition": "A decentralized, distributed ledger technology that records transactions across many computers to ensure security and transparency.",
+          "relatedTerms": [
+            "cryptographic hashing",
+            "distributed ledger",
+            "decentralization"
+          ]
+        },
+        "cryptographic hashing": {
+          "term": "Cryptographic Hashing",
+          "definition": "A method used to transform data into a fixed-size string of characters, which is nearly impossible to reverse.",
+          "relatedTerms": [
+            "blockchain",
+            "cryptography"
+          ]
+        },
+        "smart contracts": {
+          "term": "Smart Contracts",
+          "definition": "Self-executing contracts with the terms of the agreement directly written into lines of code.",
+          "relatedTerms": [
+            "blockchain",
+            "Ethereum",
+            "decentralized applications"
+          ]
+        }
+      }
+    },
+    {
+      "id": "5",
+      "owner": "e819",
+      "title": "Introduction to Genetic Algorithms",
+      "description": "An introductory guide to genetic algorithms, covering their biological inspiration, evolutionary principles, and use in optimization problems.",
+      "content": "Genetic algorithms are search heuristics inspired by the process of natural selection. This summary explains how these algorithms use selection, crossover, and mutation to evolve solutions to complex optimization problems.",
+      "views": 853,
+      "likes": 60,
+      "comments": [],
+      "dateCreated": "2023-08-10",
+      "lastUpdated": "2023-08-12",
+      "author": "Jane Doe",
+      "tags": [
+        "Genetic Algorithms",
+        "Optimization",
+        "AI"
+      ],
+      "neuronGraph": {
+        "genetic algorithms": {
+          "term": "Genetic Algorithms",
+          "definition": "Optimization algorithms that mimic the process of natural selection to find optimal or near-optimal solutions to complex problems.",
+          "relatedTerms": [
+            "mutation",
+            "crossover",
+            "selection"
+          ]
+        },
+        "mutation": {
+          "term": "Mutation",
+          "definition": "A process in genetic algorithms where random changes are introduced to candidate solutions to maintain diversity within the population.",
+          "relatedTerms": [
+            "genetic algorithms",
+            "evolutionary computation"
+          ]
+        },
+        "crossover": {
+          "term": "Crossover",
+          "definition": "A genetic algorithm process where two parent solutions combine to produce offspring solutions.",
+          "relatedTerms": [
+            "genetic algorithms",
+            "selection"
+          ]
+        }
+      }
+    },
+    {
+      "id": "1727339527187",
+      "title": "vvvvvvvvvvvvv",
+      "description": "vvvvvvvvvvvvvvvvvv",
+      "content": "vvvvvvvvvvvvvvvv",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "chemistry"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "26-09-2024",
+      "lastUpdated": "26-09-2024"
+    },
+    {
+      "id": "1727339977967",
+      "title": "ccccccccccc",
+      "description": "ccccccccccccccc",
+      "content": "ccccccccccccccccccc",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "chemistry"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 9,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1727352503812",
+      "title": "aaaaaaaaaaaaaaaa",
+      "description": "aaaaaaaaaaaaaaaaa",
+      "content": "aaaaaaaaaaaaaaaaaaaaaaa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "physics"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1727352551775",
+      "title": "nnnnnnnnnnn",
+      "description": "nnnnnnnnnnnnnnnn",
+      "content": "nnnnnnnnnnnnnnnnnnn",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "history"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1727352897263",
+      "title": "bbbbbbbbb",
+      "description": "bbbbbbbbbbbbbbb",
+      "content": "bbbbbbbbbb",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "sdsd",
+        "sdsf",
+        "xzcxc"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1727383261900",
+      "title": "sddddd",
+      "description": "ddddddddd",
+      "content": "dddddddd",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "literature"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1727383283959",
+      "title": "ccccccc",
+      "description": "cccccccccccccc",
+      "content": "ccccccccccccccccccc",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "c"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1727383304276",
+      "title": "ccccccc",
+      "description": "cccccccccccccc",
+      "content": "ccccccccccccccccccc",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "c"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1727383430743",
+      "title": "ddddddddd",
+      "description": "ddddddddddddddd",
+      "content": "dddddddddddddddddd",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "d"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 2,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-09-26",
+      "lastUpdated": "2024-09-26"
+    },
+    {
+      "id": "1728157794384",
+      "title": "Infi",
+      "description": "Infi math",
+      "content": "Infi math for first year in JCT",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-05",
+      "lastUpdated": "2024-10-05"
+    },
+    {
+      "id": "1728632466666",
+      "title": "vcb",
+      "description": "cvb",
+      "content": "cvb",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 2,
+      "likes": 1,
+      "comments": [],
+      "dateCreated": "2024-10-11",
+      "lastUpdated": "2024-10-11"
+    },
+    {
+      "id": "1728989966146",
+      "title": "Second",
+      "description": "Try",
+      "content": "Name",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "1728989966140",
+      "views": 2,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-15",
+      "lastUpdated": "2024-10-15"
+    },
+    {
+      "id": "1729062090017",
+      "title": "Third",
+      "description": "Try",
+      "content": "Test",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "1729062090012",
+      "views": 14,
+      "likes": 1,
+      "comments": [],
+      "dateCreated": "2024-10-16",
+      "lastUpdated": "2024-10-16"
+    },
+    {
+      "id": "1729062268345",
+      "title": "4",
+      "description": "4",
+      "content": "4",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "2f24ca3d7b008c45f6d4ae703.pdf",
+      "views": 2,
+      "likes": 0,
+      "comments": [
+        "1729244347890"
+      ],
+      "dateCreated": "2024-10-16",
+      "lastUpdated": "2024-10-16"
+    },
+    {
+      "id": "1729062872307",
+      "title": "5",
+      "description": "5",
+      "content": "5",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "2f24ca3d7b008c45f6d4ae704.docx",
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-16",
+      "lastUpdated": "2024-10-16"
+    },
+    {
+      "id": "1729063048775",
+      "title": "6",
+      "description": "6",
+      "content": "6",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "2f24ca3d7b008c45f6d4ae705.docx",
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-16",
+      "lastUpdated": "2024-10-16"
+    },
+    {
+      "id": "1729080509391",
+      "title": "hjk",
+      "description": "hjk",
+      "content": "hjk",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "2f24ca3d7b008c45f6d4ae706.pdf",
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-16",
+      "lastUpdated": "2024-10-16"
+    },
+    {
+      "id": "1729082117756",
+      "title": "f",
+      "description": "f",
+      "content": "f",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "2f24ca3d7b008c45f6d4ae707.pdf",
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-16",
+      "lastUpdated": "2024-10-16"
+    },
+    {
+      "id": "1729250052560",
+      "title": "Sups",
+      "description": "Sups",
+      "content": "Sups",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "Hello"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "c7922b3940d549f81eae6c602.pdf",
+      "views": 12,
+      "likes": 1,
+      "comments": [
+        "1729252398287"
+      ],
+      "dateCreated": "2024-10-18",
+      "lastUpdated": "2024-10-18"
+    },
+    {
+      "id": "1729250134175",
+      "title": "jhg",
+      "description": "jhg",
+      "content": "jhg",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "jhg"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "c7922b3940d549f81eae6c603.pdf",
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-18",
+      "lastUpdated": "2024-10-18"
+    },
+    {
+      "id": "1729250243586",
+      "title": "qq",
+      "description": "qq",
+      "content": "qq",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "qq"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "c7922b3940d549f81eae6c604.pdf",
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-18",
+      "lastUpdated": "2024-10-18"
+    },
+    {
+      "id": "1729250339284",
+      "title": "ll",
+      "description": "ll",
+      "content": "ll",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "ll"
+      ],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "fileId": "c7922b3940d549f81eae6c605.pdf",
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-18",
+      "lastUpdated": "2024-10-18"
+    },
+    {
+      "id": "1729250526876",
+      "title": "oo",
+      "description": "oo",
+      "content": "oo",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "tags": [
+        "oo"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "fileId": "c7922b3940d549f81eae6c606.docx",
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-18",
+      "lastUpdated": "2024-10-18"
+    },
+    {
+      "id": "1729623508615",
+      "title": "llk",
+      "description": "llk",
+      "content": "llk",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "fileId": "582d8547a4a7eb1fc31e49100.pdf",
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-22",
+      "lastUpdated": "2024-10-22"
+    },
+    {
+      "id": "1729623780985",
+      "title": "hjk",
+      "description": "hjk",
+      "content": "hjk",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-22",
+      "lastUpdated": "2024-10-22"
+    },
+    {
+      "id": "1729623816301",
+      "title": "nm,",
+      "description": "nm,",
+      "content": "nm,",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-22",
+      "lastUpdated": "2024-10-22"
+    },
+    {
+      "id": "1730018617913",
+      "title": "Hell",
+      "description": "Hell",
+      "content": "Hell",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "fgh",
+        "vbn"
+      ],
+      "privacyLevel": "private",
+      "neuronGraph": {},
+      "fileId": "582d8547a4a7eb1fc31e49101.pdf",
+      "views": 3,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730019573707",
+      "title": "qw",
+      "description": "qw",
+      "content": "qw",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "privacyLevel": "private",
+      "neuronGraph": {},
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730019764129",
+      "title": "ass",
+      "description": "ass",
+      "content": "ass",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "privacyLevel": "private",
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730019783618",
+      "title": "ssa",
+      "description": "ssa",
+      "content": "ssa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "privacyLevel": "public",
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730019902422",
+      "title": "cv",
+      "description": "cv",
+      "content": "cv",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "privacyLevel": "private",
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730019961410",
+      "title": "bv",
+      "description": "bv",
+      "content": "bv",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "privacyLevel": "private",
+      "neuronGraph": {},
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730020002339",
+      "title": "vcx",
+      "description": "vcx",
+      "content": "vcx",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "privacyLevel": "private",
+      "neuronGraph": {},
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730020799731",
+      "title": "gfd",
+      "description": "gfd",
+      "content": "gfd",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730021509576",
+      "title": "uyt",
+      "description": "uyt",
+      "content": "uyt",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730022723188",
+      "title": "asdf",
+      "description": "asdf",
+      "content": "asdf",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": false,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730022746158",
+      "title": "zxcv",
+      "description": "zxcv",
+      "content": "zxcv",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730022842346",
+      "title": "nbcv",
+      "description": "nbcv",
+      "content": "nbvc",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730023611883",
+      "title": "kjh",
+      "description": "kjh",
+      "content": "kjh",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 1,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730024411926",
+      "title": "jhgf",
+      "description": "jhgf",
+      "content": "jhgf",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730026066304",
+      "title": "vcxx",
+      "description": "vcxx",
+      "content": "vcxx",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730026145864",
+      "title": "fdsd",
+      "description": "fdsd",
+      "content": "fdsd",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730026397270",
+      "title": "mnb",
+      "description": "mnb",
+      "content": "mnb",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730026873188",
+      "title": "lllk",
+      "description": "lllk",
+      "content": "lllk",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031100857",
+      "title": "xcvb",
+      "description": "xcvb",
+      "content": "xcvb",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "xcvb",
+        "sdf",
+        "zxcv"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "fileId": "582d8547a4a7eb1fc31e49102.pdf",
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031240805",
+      "title": "gfds",
+      "description": "gfds",
+      "content": "gfds",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031266368",
+      "title": "wwww",
+      "description": "wwww",
+      "content": "wwww",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031301352",
+      "title": "qqqq",
+      "description": "qqqq",
+      "content": "qqqq",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031324680",
+      "title": "vvvv",
+      "description": "vvvv",
+      "content": "vvvv",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031353376",
+      "title": "rrrr",
+      "description": "rrrr",
+      "content": "rrrr",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031464866",
+      "title": "www",
+      "description": "www",
+      "content": "www",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031664862",
+      "title": "dsa",
+      "description": "dsa",
+      "content": "dsa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031684592",
+      "title": "dsadsa",
+      "description": "dsadsa",
+      "content": "dsadsa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "1727637286308"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730031712196",
+      "title": "fdsa",
+      "description": "fdsa",
+      "content": "fdsa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "fdas"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "f3",
+        "f1"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730032096812",
+      "title": "fdsa",
+      "description": "fdsa",
+      "content": "fdsa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "fdas"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "f3",
+        "f1"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730032119501",
+      "title": "fdsa",
+      "description": "fdsa",
+      "content": "fdsa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "fdas"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "f3",
+        "f1"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730032408139",
+      "title": "fdsa",
+      "description": "fdsa",
+      "content": "fdsa",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "fdas"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "f3",
+        "f1"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730032965204",
+      "title": "vcx",
+      "description": "vcx",
+      "content": "vcx",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "vcx"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "1730032808214"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730032983948",
+      "title": "giga",
+      "description": "giga",
+      "content": "giga",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "giga"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "f3",
+        "f1",
+        "1727639396867",
+        "1727640859657"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730035413336",
+      "title": "as",
+      "description": "as",
+      "content": "as",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "as"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root",
+        "f3",
+        "f1",
+        "1727639396867",
+        "1727640859657"
+      ],
+      "views": 0,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-27",
+      "lastUpdated": "2024-10-27"
+    },
+    {
+      "id": "1730120729547",
+      "title": "private",
+      "description": "private",
+      "content": "private",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "tags": [
+        "private"
+      ],
+      "isPrivate": true,
+      "neuronGraph": {},
+      "path": [
+        "Root"
+      ],
+      "views": 11,
+      "likes": 0,
+      "comments": [],
+      "dateCreated": "2024-10-28",
+      "lastUpdated": "2024-10-28"
+    }
+  ],
+  "repositories": [
+    {
+      "id": "1",
+      "name": "Quantum Physics Notes",
+      "description": "A comprehensive collection of quantum physics summaries and notes",
+      "author": "Dr. Jane Smith",
+      "owner": "Eitan Klein",
+      "stars": 108,
+      "likes": 45,
+      "views": 30,
+      "tags": [
+        "Physics",
+        "Quantum Mechanics",
+        "Science"
+      ],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "f1",
+            "name": "Fundamentals",
+            "items": [
+              {
+                "id": "s1",
+                "title": "Introduction to Quantum Mechanics",
+                "description": "Basic concepts of quantum mechanics",
+                "author": "Dr. Jane Smith",
+                "lastUpdated": "2023-06-15",
+                "views": 1200,
+                "likes": 85,
+                "comments": 23,
+                "path": [
+                  "Fundamentals"
+                ]
+              },
+              {
+                "id": "s2",
+                "title": "Wave-Particle Duality",
+                "description": "Explanation of wave-particle duality",
+                "author": "John Doe",
+                "lastUpdated": "2023-06-10",
+                "views": 950,
+                "likes": 72,
+                "comments": 15,
+                "path": [
+                  "Fundamentals"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "name": "Advanced Topics",
+            "items": [
+              {
+                "id": "s3",
+                "title": "Schrödinger Equation",
+                "description": "Detailed analysis of the Schrödinger equation",
+                "author": "Alice Johnson",
+                "lastUpdated": "2023-06-05",
+                "views": 800,
+                "likes": 63,
+                "comments": 10,
+                "path": [
+                  "Advanced Topics"
+                ]
+              },
+              {
+                "id": "f3",
+                "name": "Quantum Field Theory",
+                "items": [
+                  {
+                    "id": "s4",
+                    "title": "Introduction to QFT",
+                    "description": "Basics of Quantum Field Theory",
+                    "author": "Dr. Jane Smith",
+                    "lastUpdated": "2023-05-20",
+                    "views": 600,
+                    "likes": 45,
+                    "comments": 8,
+                    "path": [
+                      "Advanced Topics",
+                      "Quantum Field Theory"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1727383430743",
+                "title": "ddddddddd",
+                "description": "ddddddddddddddd",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-09-26",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Topics"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Machine Learning Resource",
+      "description": "A curated collection of machine learning notes, tutorials, and research paper",
+      "author": "Dr. Alan Walker",
+      "owner": "1371",
+      "stars": 145,
+      "likes": 101,
+      "views": 427,
+      "collaborators": [
+        "e819"
+      ],
+      "pendingCollaborators": [],
+      "tags": [
+        "Machine Learning",
+        "AI",
+        "Data Science"
+      ],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "1727352503812",
+            "title": "aaaaaaaaaaaaaaaa",
+            "description": "aaaaaaaaaaaaaaaaa",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-09-26",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root",
+              "Advanced Neural Networks"
+            ]
+          },
+          {
+            "id": "1727637286308",
+            "name": "Base",
+            "items": [
+              {
+                "id": "1728989966146",
+                "title": "Second",
+                "description": "Try",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-15",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Base"
+                ]
+              },
+              {
+                "id": "1729062090017",
+                "title": "Third",
+                "description": "Try",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-16",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Base"
+                ]
+              },
+              {
+                "id": "1729062268345",
+                "title": "4",
+                "description": "4",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-16",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Base"
+                ]
+              },
+              {
+                "id": "1729062872307",
+                "title": "5",
+                "description": "5",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-16",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Base"
+                ]
+              },
+              {
+                "id": "1730018617913",
+                "title": "Hell",
+                "description": "Hell",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Base"
+                ]
+              },
+              {
+                "id": "1730031301352",
+                "title": "qqqq",
+                "description": "qqqq",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "isPrivate": true,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Base"
+                ]
+              },
+              {
+                "id": "1730031684592",
+                "title": "dsadsa",
+                "description": "dsadsa",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "isPrivate": true,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Base"
+                ]
+              }
+            ],
+            "path": []
+          },
+          {
+            "id": "f2",
+            "name": "Deep Learning",
+            "items": [
+              {
+                "id": "s3",
+                "title": "Introduction to Neural Networks",
+                "description": "Explanation of basic neural network architectures",
+                "author": "Dr. Alan Walker",
+                "lastUpdated": "2023-06-15",
+                "views": 1600,
+                "likes": 110,
+                "comments": 22,
+                "path": [
+                  "Deep Learning"
+                ]
+              },
+              {
+                "id": "1729250339284",
+                "title": "ll",
+                "description": "ll",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-18",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Deep Learning"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1727339527187",
+            "title": "vvvvvvvvvvvvv",
+            "description": "vvvvvvvvvvvvvvvvvv",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "26-09-2024",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root",
+              "Advanced Neural Networks"
+            ]
+          },
+          {
+            "id": "1729063048775",
+            "title": "6",
+            "description": "6",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-16",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root",
+              "Base"
+            ]
+          },
+          {
+            "id": "f3",
+            "name": "Advanced Neural Networks",
+            "items": [
+              {
+                "id": "f1",
+                "name": "Basics",
+                "items": [
+                  {
+                    "id": "1727639396867",
+                    "name": "Bis",
+                    "items": [
+                      {
+                        "id": "s4",
+                        "title": "Convolutional Neural Networks",
+                        "description": "Detailed guide on CNNs",
+                        "author": "Alice Johnson",
+                        "lastUpdated": "2023-06-05",
+                        "views": 1200,
+                        "likes": 90,
+                        "comments": 15,
+                        "path": [
+                          "Deep Learning",
+                          "Advanced Neural Networks"
+                        ]
+                      },
+                      {
+                        "id": "1727640859657",
+                        "name": "bas",
+                        "items": [
+                          {
+                            "id": "1730032983948",
+                            "title": "giga",
+                            "description": "giga",
+                            "author": "Eitan Klein",
+                            "owner": "1371",
+                            "lastUpdated": "2024-10-27",
+                            "views": 0,
+                            "likes": 0,
+                            "isPrivate": true,
+                            "comments": 0,
+                            "path": [
+                              "Root",
+                              "Advanced Neural Networks",
+                              "Basics",
+                              "Bis",
+                              "bas"
+                            ]
+                          },
+                          {
+                            "id": "1730035413336",
+                            "title": "as",
+                            "description": "as",
+                            "author": "Eitan Klein",
+                            "owner": "1371",
+                            "lastUpdated": "2024-10-27",
+                            "views": 0,
+                            "likes": 0,
+                            "isPrivate": true,
+                            "comments": 0,
+                            "path": [
+                              "Root",
+                              "Advanced Neural Networks",
+                              "Basics",
+                              "Bis",
+                              "bas"
+                            ]
+                          }
+                        ],
+                        "path": []
+                      }
+                    ],
+                    "path": []
+                  },
+                  {
+                    "id": "2",
+                    "title": "Introduction to Machine Learning",
+                    "description": "Overview of machine learning concepts",
+                    "author": "Dr. Alan Walker",
+                    "lastUpdated": "2023-07-10",
+                    "views": 2000,
+                    "likes": 150,
+                    "comments": 35,
+                    "path": [
+                      "Basics"
+                    ]
+                  },
+                  {
+                    "id": "1730032408139",
+                    "title": "fdsa",
+                    "description": "fdsa",
+                    "author": "Eitan Klein",
+                    "owner": "1371",
+                    "lastUpdated": "2024-10-27",
+                    "views": 0,
+                    "likes": 0,
+                    "isPrivate": true,
+                    "comments": 0,
+                    "path": [
+                      "Root",
+                      "Advanced Neural Networks",
+                      "Basics"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1727352551775",
+                "title": "nnnnnnnnnnn",
+                "description": "nnnnnnnnnnnnnnnn",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-09-26",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1727352897263",
+                "title": "bbbbbbbbb",
+                "description": "bbbbbbbbbbbbbbb",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-09-26",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1728632466666",
+                "title": "vcb",
+                "description": "cvb",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-11",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1729080509391",
+                "title": "hjk",
+                "description": "hjk",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-16",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1730019573707",
+                "title": "qw",
+                "description": "qw",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1730019764129",
+                "title": "ass",
+                "description": "ass",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1730019902422",
+                "title": "cv",
+                "description": "cv",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1730031100857",
+                "title": "xcvb",
+                "description": "xcvb",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "isPrivate": true,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1730031240805",
+                "title": "gfds",
+                "description": "gfds",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "isPrivate": true,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1730031324680",
+                "title": "vvvv",
+                "description": "vvvv",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "isPrivate": true,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              },
+              {
+                "id": "1730031353376",
+                "title": "rrrr",
+                "description": "rrrr",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "isPrivate": true,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Advanced Neural Networks"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1727339977967",
+            "title": "ccccccccccc",
+            "description": "ccccccccccccccc",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-09-26",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root",
+              "Advanced Neural Networks"
+            ]
+          },
+          {
+            "id": "1730021509576",
+            "title": "uyt",
+            "description": "uyt",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730031266368",
+            "title": "wwww",
+            "description": "wwww",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "isPrivate": true,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730031464866",
+            "title": "www",
+            "description": "www",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "isPrivate": true,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730031664862",
+            "title": "dsa",
+            "description": "dsa",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "isPrivate": true,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "name": "Blockchain Technology",
+      "description": "Notes and articles on the fundamentals and advanced concepts of blockchain and cryptocurrencies.",
+      "author": "Dr. Emily Carter",
+      "owner": "sds44d",
+      "stars": 95,
+      "tags": [
+        "Blockchain",
+        "Cryptocurrency",
+        "Technology"
+      ],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "f1",
+            "name": "Fundamentals",
+            "items": [
+              {
+                "id": "s1",
+                "title": "Introduction to Blockchain",
+                "description": "Overview of blockchain technology",
+                "author": "Dr. Emily Carter",
+                "lastUpdated": "2023-05-10",
+                "views": 1500,
+                "likes": 100,
+                "comments": 20,
+                "path": [
+                  "Fundamentals"
+                ]
+              },
+              {
+                "id": "s2",
+                "title": "Cryptographic Hashing",
+                "description": "Explanation of hashing techniques in blockchain",
+                "author": "John Doe",
+                "lastUpdated": "2023-05-05",
+                "views": 1300,
+                "likes": 80,
+                "comments": 18,
+                "path": [
+                  "Fundamentals"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "name": "Advanced Concepts",
+            "items": [
+              {
+                "id": "s3",
+                "title": "Smart Contracts",
+                "description": "Introduction to self-executing contracts",
+                "author": "Alice Johnson",
+                "lastUpdated": "2023-04-25",
+                "views": 1000,
+                "likes": 70,
+                "comments": 15,
+                "path": [
+                  "Advanced Concepts"
+                ]
+              },
+              {
+                "id": "f3",
+                "name": "Decentralized Applications",
+                "items": [
+                  {
+                    "id": "s4",
+                    "title": "Building DApps",
+                    "description": "Guide to building decentralized applications",
+                    "author": "Dr. Emily Carter",
+                    "lastUpdated": "2023-04-15",
+                    "views": 850,
+                    "likes": 60,
+                    "comments": 10,
+                    "path": [
+                      "Advanced Concepts",
+                      "Decentralized Applications"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "name": "Genetics and Biotechnology",
+      "description": "A repository of notes, tutorials, and research on genetics, biotechnology, and bioinformatics.",
+      "author": "Dr. Sarah Williams",
+      "owner": "sds44d",
+      "stars": 78,
+      "tags": [
+        "Genetics",
+        "Biotechnology",
+        "Bioinformatics"
+      ],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "f1",
+            "name": "Genetics",
+            "items": [
+              {
+                "id": "s1",
+                "title": "Introduction to Genetics",
+                "description": "Basic concepts of heredity and genetic variation",
+                "author": "Dr. Sarah Williams",
+                "lastUpdated": "2023-03-20",
+                "views": 1100,
+                "likes": 90,
+                "comments": 12,
+                "path": [
+                  "Genetics"
+                ]
+              },
+              {
+                "id": "s2",
+                "title": "Mendelian Genetics",
+                "description": "A guide to Mendel's laws of inheritance",
+                "author": "John Doe",
+                "lastUpdated": "2023-03-15",
+                "views": 1000,
+                "likes": 85,
+                "comments": 14,
+                "path": [
+                  "Genetics"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "name": "Biotechnology",
+            "items": [
+              {
+                "id": "s3",
+                "title": "CRISPR Technology",
+                "description": "An overview of gene editing with CRISPR",
+                "author": "Alice Johnson",
+                "lastUpdated": "2023-03-05",
+                "views": 900,
+                "likes": 70,
+                "comments": 10,
+                "path": [
+                  "Biotechnology"
+                ]
+              },
+              {
+                "id": "f3",
+                "name": "Bioinformatics",
+                "items": [
+                  {
+                    "id": "s4",
+                    "title": "Introduction to Bioinformatics",
+                    "description": "Basics of bioinformatics and computational biology",
+                    "author": "Dr. Sarah Williams",
+                    "lastUpdated": "2023-02-25",
+                    "views": 800,
+                    "likes": 65,
+                    "comments": 9,
+                    "path": [
+                      "Biotechnology",
+                      "Bioinformatics"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "name": "Introduction to Astrophysics",
+      "description": "A collection of astrophysics summaries, covering key concepts and recent discoveries.",
+      "author": "Prof. Michael Lee",
+      "owner": "Eitan Klein",
+      "stars": 100,
+      "tags": [
+        "Astrophysics",
+        "Physics",
+        "Space"
+      ],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "f1",
+            "name": "Stellar Physics",
+            "items": [
+              {
+                "id": "s1",
+                "title": "Life Cycle of Stars",
+                "description": "Overview of the stages of stellar evolution",
+                "author": "Prof. Michael Lee",
+                "lastUpdated": "2023-01-20",
+                "views": 1500,
+                "likes": 130,
+                "comments": 25,
+                "path": [
+                  "Stellar Physics"
+                ]
+              },
+              {
+                "id": "s2",
+                "title": "Supernovae",
+                "description": "An in-depth look at supernova explosions",
+                "author": "John Doe",
+                "lastUpdated": "2023-01-15",
+                "views": 1400,
+                "likes": 120,
+                "comments": 22,
+                "path": [
+                  "Stellar Physics"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "name": "Cosmology",
+            "items": [
+              {
+                "id": "s3",
+                "title": "The Big Bang Theory",
+                "description": "Explanation of the origin of the universe",
+                "author": "Alice Johnson",
+                "lastUpdated": "2023-01-10",
+                "views": 1300,
+                "likes": 110,
+                "comments": 18,
+                "path": [
+                  "Cosmology"
+                ]
+              },
+              {
+                "id": "f3",
+                "name": "Black Holes",
+                "items": [
+                  {
+                    "id": "s4",
+                    "title": "Understanding Black Holes",
+                    "description": "Exploring the physics of black holes",
+                    "author": "Prof. Michael Lee",
+                    "lastUpdated": "2023-01-05",
+                    "views": 1200,
+                    "likes": 100,
+                    "comments": 15,
+                    "path": [
+                      "Cosmology",
+                      "Black Holes"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "views": 10,
+      "likes": 4
+    },
+    {
+      "id": "1728157637484",
+      "name": "First Year Freash",
+      "description": "A repository for the first year",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "stars": 0,
+      "isPrivate": false,
+      "tags": [],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "1728157794384",
+            "title": "Infi",
+            "description": "Infi math",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-05",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730019783618",
+            "title": "ssa",
+            "description": "ssa",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730022723188",
+            "title": "asdf",
+            "description": "asdf",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730022746158",
+            "title": "zxcv",
+            "description": "zxcv",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730022842346",
+            "title": "nbcv",
+            "description": "nbcv",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730023611883",
+            "title": "kjh",
+            "description": "kjh",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730024411926",
+            "title": "jhgf",
+            "description": "jhgf",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730026066304",
+            "title": "vcxx",
+            "description": "vcxx",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1730026145864",
+            "title": "fdsd",
+            "description": "fdsd",
+            "author": "Eitan Klein",
+            "owner": "1371",
+            "lastUpdated": "2024-10-27",
+            "views": 0,
+            "likes": 0,
+            "isPrivate": true,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          }
+        ],
+        "path": []
+      },
+      "views": 76,
+      "likes": 0,
+      "collaborators": [],
+      "pendingCollaborators": []
+    },
+    {
+      "id": "1728632021081",
+      "name": "sdf",
+      "description": "xcv",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "stars": 0,
+      "tags": [],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "1730032808214",
+            "name": "Hello",
+            "items": [
+              {
+                "id": "1730032965204",
+                "title": "vcx",
+                "description": "vcx",
+                "author": "Eitan Klein",
+                "owner": "1371",
+                "lastUpdated": "2024-10-27",
+                "views": 0,
+                "likes": 0,
+                "isPrivate": true,
+                "comments": 0,
+                "path": [
+                  "Root",
+                  "Hello"
+                ]
+              }
+            ],
+            "path": []
+          }
+        ],
+        "path": []
+      },
+      "views": 9,
+      "likes": 0,
+      "collaborators": [],
+      "pendingCollaborators": []
+    },
+    {
+      "id": "1729248903295",
+      "name": "Hey",
+      "description": "Sup",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "isPrivate": true,
+      "stars": 0,
+      "tags": [],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [],
+        "path": []
+      },
+      "views": 9,
+      "likes": 0,
+      "collaborators": [
+        "e819"
+      ],
+      "pendingCollaborators": []
+    },
+    {
+      "id": "1729249981440",
+      "name": "Hello",
+      "description": "Nice",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "isPrivate": false,
+      "stars": 0,
+      "tags": [],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [
+          {
+            "id": "1729250526876",
+            "title": "oo",
+            "description": "oo",
+            "author": "Jane Doe",
+            "owner": "e819",
+            "lastUpdated": "2024-10-18",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1729623508615",
+            "title": "llk",
+            "description": "llk",
+            "author": "Jane Doe",
+            "owner": "e819",
+            "lastUpdated": "2024-10-22",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1729623780985",
+            "title": "hjk",
+            "description": "hjk",
+            "author": "Jane Doe",
+            "owner": "e819",
+            "lastUpdated": "2024-10-22",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          },
+          {
+            "id": "1729623816301",
+            "title": "nm,",
+            "description": "nm,",
+            "author": "Jane Doe",
+            "owner": "e819",
+            "lastUpdated": "2024-10-22",
+            "views": 0,
+            "likes": 0,
+            "comments": 0,
+            "path": [
+              "Root"
+            ]
+          }
+        ],
+        "path": []
+      },
+      "views": 3,
+      "likes": 0,
+      "collaborators": [],
+      "pendingCollaborators": []
+    },
+    {
+      "id": "1729844432427",
+      "name": "xcv",
+      "description": "cxv",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "isPrivate": true,
+      "stars": 0,
+      "tags": [],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [],
+        "path": []
+      },
+      "views": 1,
+      "likes": 0,
+      "collaborators": [],
+      "pendingCollaborators": []
+    },
+    {
+      "id": "1729847151243",
+      "name": "op",
+      "description": "op",
+      "author": "Eitan Klein",
+      "owner": "1371",
+      "isPrivate": true,
+      "stars": 0,
+      "tags": [],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [],
+        "path": []
+      },
+      "views": 2,
+      "likes": 0,
+      "collaborators": [
+        "e819"
+      ],
+      "pendingCollaborators": []
+    },
+    {
+      "id": "1730022035258",
+      "name": "vbnm",
+      "description": "vbnm",
+      "author": "Jane Doe",
+      "owner": "e819",
+      "isPrivate": false,
+      "stars": 0,
+      "tags": [],
+      "rootFolder": {
+        "id": "root",
+        "name": "Root",
+        "items": [],
+        "path": []
+      },
+      "views": 1,
+      "likes": 0,
+      "collaborators": [
+        "1371"
+      ],
+      "pendingCollaborators": []
+    }
+  ],
+  "communities": [
+    {
+      "id": "1",
+      "name": "Softweare Engineering",
+      "description": "A community dedicated to exploring and discussing the latest advancements in Softweare Engineering.",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [
+        "quantum computing",
+        "physics",
+        "computer science",
+        "research"
+      ],
+      "rules": [
+        "Be respectful and professional in all interactions.",
+        "Only share peer-reviewed or reputable sources.",
+        "No promotion of commercial products without prior approval.",
+        "Engage in constructive discussions and debates."
+      ],
+      "creationDate": "2023-01-15T00:00:00Z",
+      "lastActivityDate": "2023-10-02T14:30:00Z",
+      "totalMembers": 1502,
+      "totalContent": 230,
+      "repositories": [
+        "1",
+        "2"
+      ],
+      "joinPolicy": "open",
+      "pendingMembers": [
+        "e819"
+      ]
+    },
+    {
+      "id": "1728155586115",
+      "name": "JCT",
+      "description": "This is the all JCT community",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-05T19:13:06.115Z",
+      "lastActivityDate": "2024-10-05T19:13:06.115Z",
+      "totalMembers": 2,
+      "totalContent": 1,
+      "repositories": [
+        "1728157637484"
+      ],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1728631860616",
+      "name": "fdg",
+      "description": "dfg",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-11T07:31:00.616Z",
+      "lastActivityDate": "2024-10-11T07:31:00.616Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1728631908638",
+      "name": "xcv",
+      "description": "xcv",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-11T07:31:48.638Z",
+      "lastActivityDate": "2024-10-11T07:31:48.638Z",
+      "totalMembers": 2,
+      "totalContent": 1,
+      "repositories": [
+        "1728632021081"
+      ],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1728631931139",
+      "name": "vcb",
+      "description": "cvb",
+      "members": [
+        "1371"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-11T07:32:11.139Z",
+      "lastActivityDate": "2024-10-11T07:32:11.139Z",
+      "totalMembers": 1,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "open",
+      "pendingMembers": []
+    },
+    {
+      "id": "1728818096990",
+      "name": "bvc",
+      "description": "bvc",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-13T11:14:56.990Z",
+      "lastActivityDate": "2024-10-13T11:14:56.990Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1728818276523",
+      "name": "mmm",
+      "description": "mmm",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-13T11:17:56.523Z",
+      "lastActivityDate": "2024-10-13T11:17:56.523Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729082518145",
+      "name": "aa",
+      "description": "aa",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T12:41:58.144Z",
+      "lastActivityDate": "2024-10-16T12:41:58.144Z",
+      "totalMembers": 2,
+      "totalContent": 1,
+      "repositories": [
+        "1729248903295"
+      ],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729082860280",
+      "name": "xx",
+      "description": "xx",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T12:47:40.280Z",
+      "lastActivityDate": "2024-10-16T12:47:40.280Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729082970040",
+      "name": "zz",
+      "description": "zz",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T12:49:30.040Z",
+      "lastActivityDate": "2024-10-16T12:49:30.040Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729083084984",
+      "name": "bbb",
+      "description": "bbb",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T12:51:24.984Z",
+      "lastActivityDate": "2024-10-16T12:51:24.984Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729083249174",
+      "name": "b",
+      "description": "b",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T12:54:09.174Z",
+      "lastActivityDate": "2024-10-16T12:54:09.174Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729083784758",
+      "name": "mm",
+      "description": "mm",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T13:03:04.758Z",
+      "lastActivityDate": "2024-10-16T13:03:04.758Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729083790965",
+      "name": "nn",
+      "description": "nn",
+      "members": [
+        "1371"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T13:03:10.965Z",
+      "lastActivityDate": "2024-10-16T13:03:10.965Z",
+      "totalMembers": 1,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729083966118",
+      "name": "uu",
+      "description": "uu",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-16T13:06:06.118Z",
+      "lastActivityDate": "2024-10-16T13:06:06.118Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729624076964",
+      "name": "ksp",
+      "description": "ksp",
+      "members": [
+        "1371"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-22T19:07:56.964Z",
+      "lastActivityDate": "2024-10-22T19:07:56.964Z",
+      "totalMembers": 1,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "invite",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729842060853",
+      "name": "vbn",
+      "description": "vbn",
+      "members": [
+        "e819"
+      ],
+      "admins": [
+        "e819"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-25T07:41:00.853Z",
+      "lastActivityDate": "2024-10-25T07:41:00.853Z",
+      "totalMembers": 1,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "open",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729842105507",
+      "name": "ghj",
+      "description": "ghj",
+      "members": [
+        "e819"
+      ],
+      "admins": [
+        "e819"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-25T07:41:45.507Z",
+      "lastActivityDate": "2024-10-25T07:41:45.507Z",
+      "totalMembers": 1,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1729865593302",
+      "name": "bn",
+      "description": "bn",
+      "members": [
+        "1371"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-25T14:13:13.301Z",
+      "lastActivityDate": "2024-10-25T14:13:13.301Z",
+      "totalMembers": 1,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1730018009291",
+      "name": "uu",
+      "description": "uu",
+      "members": [
+        "1371",
+        "e819"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-27T08:33:29.290Z",
+      "lastActivityDate": "2024-10-27T08:33:29.291Z",
+      "totalMembers": 2,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    },
+    {
+      "id": "1730019716232",
+      "name": "ass",
+      "description": "ass",
+      "members": [
+        "1371"
+      ],
+      "admins": [
+        "1371"
+      ],
+      "tags": [],
+      "rules": [],
+      "creationDate": "2024-10-27T09:01:56.232Z",
+      "lastActivityDate": "2024-10-27T09:01:56.232Z",
+      "totalMembers": 1,
+      "totalContent": 0,
+      "repositories": [],
+      "joinPolicy": "request",
+      "pendingMembers": []
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1729082056413",
+      "date": "2024-10-16T12:34:16.412Z",
+      "read": true,
+      "content": "Jane Doe started following you!",
+      "link": "/profile/janedoe",
+      "sender": "janedoe",
+      "type": "follow"
+    },
+    {
+      "id": "1729082060109",
+      "date": "2024-10-16T12:34:20.109Z",
+      "read": true,
+      "content": "Jane Doe liked your summary \"Introduction to Quantum Mechanics\"",
+      "link": "/summary/1",
+      "sender": "janedoe",
+      "type": "like"
+    },
+    {
+      "id": "1729082071823",
+      "date": "2024-10-16T12:34:31.823Z",
+      "read": true,
+      "content": "Jane Doe commented on your summary \"Introduction to Quantum Mechanics\"",
+      "link": "/summary/1",
+      "sender": "Jane Doe",
+      "type": "comment"
+    },
+    {
+      "id": "1729082098314",
+      "date": "2024-10-16T12:34:58.313Z",
+      "read": true,
+      "content": "Eitan Klein started following you!",
+      "link": "/profile/Eitan",
+      "sender": "Eitan",
+      "type": "follow"
+    },
+    {
+      "id": "1729082117770",
+      "date": "2024-10-16T12:35:17.770Z",
+      "read": true,
+      "content": "Jane Doe posted a new summary: \"f\"",
+      "link": "/summary/1729082117756",
+      "sender": "janedoe",
+      "type": "summary"
+    },
+    {
+      "id": "1729082150740",
+      "type": "collaboration_invite",
+      "content": "You've been invited to collaborate on the repository \"First Year Freash\"",
+      "date": "2024-10-16T12:35:50.740Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/collaboration-request/1728157637484?userId=e819"
+    },
+    {
+      "id": "1729082184906",
+      "type": "join_accepted",
+      "content": "Your request to join bvc has been accepted.",
+      "date": "2024-10-16T12:36:24.905Z",
+      "read": false,
+      "sender": "1371",
+      "link": "/community/1728818096990"
+    },
+    {
+      "id": "1729082327531",
+      "type": "join_accepted",
+      "content": "Your request to join mmm has been accepted.",
+      "date": "2024-10-16T12:38:47.530Z",
+      "read": false,
+      "sender": "1371",
+      "link": "/community/1728818276523"
+    },
+    {
+      "id": "1729082437721",
+      "type": "join_accepted",
+      "content": "Your request to join fdg has been accepted.",
+      "date": "2024-10-16T12:40:37.721Z",
+      "read": false,
+      "sender": "1371",
+      "link": "/community/1728631860616"
+    },
+    {
+      "id": "1729082766847",
+      "type": "join_accepted",
+      "content": "Your request to join aa has been accepted.",
+      "date": "2024-10-16T12:46:06.846Z",
+      "read": false,
+      "sender": "1371",
+      "link": "/community/1729082518145"
+    },
+    {
+      "id": "1729082884256",
+      "type": "join_accepted",
+      "content": "Your request to join xx has been accepted.",
+      "date": "2024-10-16T12:48:04.256Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/community/1729082860280"
+    },
+    {
+      "id": "1729082916532",
+      "type": "join_rejected",
+      "content": "Your request to join xx has been rejected.",
+      "date": "2024-10-16T12:48:36.532Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/community/1729082860280"
+    },
+    {
+      "id": "1729082985058",
+      "type": "join_accepted",
+      "content": "Your request to join zz has been accepted.",
+      "date": "2024-10-16T12:49:45.058Z",
+      "read": false,
+      "sender": "1371",
+      "link": "/community/1729082970040"
+    },
+    {
+      "id": "1729083097960",
+      "type": "join_accepted",
+      "content": "Your request to join bbb has been accepted.",
+      "date": "2024-10-16T12:51:37.959Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/community/1729083084984"
+    },
+    {
+      "id": "1729083264022",
+      "type": "join_accepted",
+      "content": "Your request to join b has been accepted.",
+      "date": "2024-10-16T12:54:24.021Z",
+      "read": false,
+      "sender": "1371",
+      "link": "/community/1729083249174"
+    },
+    {
+      "id": "1729083493686",
+      "date": "2024-10-16T12:58:13.685Z",
+      "read": true,
+      "content": "Jane Doe started following you!",
+      "link": "/profile/janedoe",
+      "sender": "janedoe",
+      "type": "follow"
+    },
+    {
+      "id": "1729083818292",
+      "type": "join_accepted",
+      "content": "Your request to join mm has been accepted.",
+      "date": "2024-10-16T13:03:38.292Z",
+      "read": false,
+      "sender": "1371",
+      "link": "/community/1729083784758"
+    },
+    {
+      "id": "1729083832721",
+      "type": "join_rejected",
+      "content": "Your request to join nn has been rejected.",
+      "date": "2024-10-16T13:03:52.721Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/community/1729083790965"
+    },
+    {
+      "id": "1729083980402",
+      "type": "join_accepted",
+      "content": "Your request to join uu has been accepted.",
+      "date": "2024-10-16T13:06:20.402Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/community/1729083966118"
+    },
+    {
+      "id": "1729084625047",
+      "date": "2024-10-16T13:17:05.047Z",
+      "read": true,
+      "content": "Jane Doe started following you!",
+      "link": "/profile/janedoe",
+      "sender": "janedoe",
+      "type": "follow"
+    },
+    {
+      "id": "1729084639871",
+      "date": "2024-10-16T13:17:19.871Z",
+      "read": true,
+      "content": "Eitan Klein liked your summary \"Introduction to Machine Learning\"",
+      "link": "/summary/2",
+      "sender": "Eitan",
+      "type": "like"
+    },
+    {
+      "id": "1729084642654",
+      "date": "2024-10-16T13:17:22.654Z",
+      "read": true,
+      "content": "Eitan Klein started following you!",
+      "link": "/profile/Eitan",
+      "sender": "Eitan",
+      "type": "follow"
+    },
+    {
+      "id": "1729088330937",
+      "date": "2024-10-16T14:18:50.936Z",
+      "read": true,
+      "content": "Eitan Klein liked your summary \"Introduction to Machine Learning\"",
+      "link": "/summary/2",
+      "sender": "Eitan",
+      "type": "like"
+    },
+    {
+      "id": "1729244136001",
+      "date": "2024-10-18T09:35:36.001Z",
+      "read": true,
+      "content": "Jane Doe commented on your summary \"Introduction to Quantum Mechanics\"",
+      "link": "/summary/1",
+      "sender": "Jane Doe",
+      "type": "comment"
+    },
+    {
+      "id": "1729244347915",
+      "date": "2024-10-18T09:39:07.915Z",
+      "read": true,
+      "content": "Jane Doe commented on your summary \"4\"",
+      "link": "/summary/1729062268345",
+      "sender": "Jane Doe",
+      "type": "comment"
+    },
+    {
+      "id": "1729244756064",
+      "date": "2024-10-18T09:45:56.064Z",
+      "read": true,
+      "content": "Jane Doe started following you!",
+      "link": "/profile/janedoe",
+      "sender": "janedoe",
+      "type": "follow"
+    },
+    {
+      "id": "1729250339300",
+      "date": "2024-10-18T11:18:59.299Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"ll\"",
+      "link": "/summary/1729250339284",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1729250526888",
+      "date": "2024-10-18T11:22:06.888Z",
+      "read": true,
+      "content": "Jane Doe posted a new summary: \"oo\"",
+      "link": "/summary/1729250526876",
+      "sender": "janedoe",
+      "type": "summary"
+    },
+    {
+      "id": "1729252356443",
+      "date": "2024-10-18T11:52:36.443Z",
+      "read": true,
+      "content": "Jane Doe liked your summary \"Sups\"",
+      "link": "/summary/1729250052560",
+      "sender": "janedoe",
+      "type": "like"
+    },
+    {
+      "id": "1729252363150",
+      "date": "2024-10-18T11:52:43.150Z",
+      "read": true,
+      "content": "Jane Doe liked your summary \"Sups\"",
+      "link": "/summary/1729250052560",
+      "sender": "janedoe",
+      "type": "like"
+    },
+    {
+      "id": "1729252383215",
+      "date": "2024-10-18T11:53:03.215Z",
+      "read": true,
+      "content": "Jane Doe liked your summary \"Sups\"",
+      "link": "/summary/1729250052560",
+      "sender": "janedoe",
+      "type": "like"
+    },
+    {
+      "id": "1729252398300",
+      "date": "2024-10-18T11:53:18.300Z",
+      "read": true,
+      "content": "Jane Doe commented on your summary \"Sups\"",
+      "link": "/summary/1729250052560",
+      "sender": "Jane Doe",
+      "type": "comment"
+    },
+    {
+      "id": "1729252451366",
+      "date": "2024-10-18T11:54:11.365Z",
+      "read": true,
+      "content": "Jane Doe started following you!",
+      "link": "/profile/janedoe",
+      "sender": "janedoe",
+      "type": "follow"
+    },
+    {
+      "id": "1729252457488",
+      "date": "2024-10-18T11:54:17.488Z",
+      "read": true,
+      "content": "Jane Doe started following you!",
+      "link": "/profile/janedoe",
+      "sender": "janedoe",
+      "type": "follow"
+    },
+    {
+      "id": "1729601033512",
+      "type": "collaboration_invite",
+      "content": "You've been invited to collaborate on the repository \"Machine Learning Resourc\"",
+      "date": "2024-10-22T12:43:53.512Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/collaboration-request/2?userId=e819"
+    },
+    {
+      "id": "1729603192328",
+      "date": "2024-10-22T13:19:52.327Z",
+      "read": true,
+      "content": "Jane Doe liked your summary \"Introduction to Quantum Mechanics\"",
+      "link": "/summary/1",
+      "sender": "janedoe",
+      "type": "like"
+    },
+    {
+      "id": "1729623508631",
+      "date": "2024-10-22T18:58:28.631Z",
+      "read": true,
+      "content": "Jane Doe posted a new summary: \"llk\"",
+      "link": "/summary/1729623508615",
+      "sender": "janedoe",
+      "type": "summary"
+    },
+    {
+      "id": "1729623816318",
+      "date": "2024-10-22T19:03:36.318Z",
+      "read": true,
+      "content": "Jane Doe posted a new summary: \"nm,\"",
+      "link": "/summary/1729623816301",
+      "sender": "janedoe",
+      "type": "summary"
+    },
+    {
+      "id": "1729843420633",
+      "type": "collaboration_invite",
+      "content": "You've been invited to collaborate on the repository \"Hey\"",
+      "date": "2024-10-25T08:03:40.633Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/collaboration-request/1729248903295?userId=e819"
+    },
+    {
+      "id": "1729847168618",
+      "type": "collaboration_invite",
+      "content": "You've been invited to collaborate on the repository \"op\"",
+      "date": "2024-10-25T09:06:08.617Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/collaboration-request/1729847151243?userId=e819"
+    },
+    {
+      "id": "1730018617938",
+      "date": "2024-10-27T08:43:37.937Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"Hell\"",
+      "link": "/summary/1730018617913",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730019573726",
+      "date": "2024-10-27T08:59:33.726Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"qw\"",
+      "link": "/summary/1730019573707",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730019684654",
+      "type": "join_accepted",
+      "content": "Your request to join uu has been accepted.",
+      "date": "2024-10-27T09:01:24.654Z",
+      "read": true,
+      "sender": "1371",
+      "link": "/community/1730018009291"
+    },
+    {
+      "id": "1730019764150",
+      "date": "2024-10-27T09:02:44.150Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"ass\"",
+      "link": "/summary/1730019764129",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730019783640",
+      "date": "2024-10-27T09:03:03.640Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"ssa\"",
+      "link": "/summary/1730019783618",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730019902442",
+      "date": "2024-10-27T09:05:02.442Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"cv\"",
+      "link": "/summary/1730019902422",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730019961430",
+      "date": "2024-10-27T09:06:01.430Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"bv\"",
+      "link": "/summary/1730019961410",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730020002360",
+      "date": "2024-10-27T09:06:42.360Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"vcx\"",
+      "link": "/summary/1730020002339",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730020799750",
+      "date": "2024-10-27T09:19:59.750Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"gfd\"",
+      "link": "/summary/1730020799731",
+      "sender": "Eitan",
+      "type": "summary"
+    },
+    {
+      "id": "1730022045310",
+      "type": "collaboration_invite",
+      "content": "You've been invited to collaborate on the repository \"vbnm\"",
+      "date": "2024-10-27T09:40:45.309Z",
+      "read": true,
+      "sender": "e819",
+      "link": "/collaboration-request/1730022035258?userId=1371"
+    },
+    {
+      "id": "1730022723205",
+      "date": "2024-10-27T09:52:03.205Z",
+      "read": true,
+      "content": "Eitan Klein posted a new summary: \"asdf\"",
+      "link": "/summary/1730022723188",
+      "sender": "Eitan",
+      "type": "summary"
+    }
+  ],
+  "comments": [
+    {
+      "id": "101",
+      "author": "Physics Student",
+      "content": "Great introduction! Very clear and easy to understand.",
+      "timestamp": "2023-06-15 10:30"
+    },
+    {
+      "id": "1729244135972",
+      "author": "Jane Doe",
+      "content": "Hey",
+      "timestamp": "2024-10-18T09:35:35.967Z"
+    },
+    {
+      "id": "1729244347890",
+      "author": "Jane Doe",
+      "content": "Hey",
+      "timestamp": "2024-10-18T09:39:07.885Z"
+    },
+    {
+      "id": "1729252398287",
+      "author": "Jane Doe",
+      "content": "היי מה קורה ניסיון בעברית",
+      "timestamp": "2024-10-18T11:53:18.282Z"
+    }
+  ]
+}
