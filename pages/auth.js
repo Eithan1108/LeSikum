@@ -28,10 +28,17 @@ export default function Auth() {
   const [error, setError] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
 
+  useEffect(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const mode = urlParams.get("mode");
+    if (mode === "signup") setIsLogin(false);
+    else setIsLogin(true);
+  }, []);
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     setError(null);
-    setIsLoading(true);
+    
     if (!isLogin) {
       try {
         // Create a new user object
@@ -59,11 +66,15 @@ export default function Auth() {
           method: "post",
           body: JSON.stringify(newUser),
         });
+        console.log("createdUser", createdUser)
         if (createdUser.ok) {
           const result = await createdUser.json();
           const userId = result.userId; // Access the userId from the response
           console.log("User ID:", userId);
           router.push(`/dashboard?userId=${userId}`);
+        } else {
+          setError("An error occurred. Please try again.");
+          console.error("Auth error:", error);
         }
       } catch (error) {
         setError("An error occurred. Please try again.");
@@ -78,14 +89,21 @@ export default function Auth() {
         body: JSON.stringify({ username: username, password: password }),
       });
       const result = await response.json()
-      if (result.success)
+      console.log("result: ", result);
+      console.log("result.success: ", result.success);
+      if (result.success) {
+        setIsLoading(true);
         router.push(`/dashboard?userId=${result.userId}`);
+      } else {
+        setError(result.message || "Invalid username or password");
+        console.log("error")
+      }
 
     } catch (error) {
       setError("Cant find this user");
     }
   }
-  };
+  }
 
   if (isLoading) {
     return <RandomLoadingComponent />;
@@ -108,7 +126,7 @@ export default function Auth() {
           </CardDescription>
         </CardHeader>
         <CardContent>
-          {error && (
+          {error != null && (
             <div
               className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-4"
               role="alert"
